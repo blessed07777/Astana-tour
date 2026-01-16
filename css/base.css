@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    line-height: 1.7;
+    color: #1f2933;
+    background: #f9fafb;
+}
+
+h1, h2, h3 {
+    color: #0f172a;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
